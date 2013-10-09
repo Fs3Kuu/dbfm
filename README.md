@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-![preview](https://raw.github.com/tnrazy/dbfm/master/preview.png)
+![preview](https://raw.github.com/fs3kuu/dbfm/master/preview.png)
 
 ------------------------------------------------------------------------
 
